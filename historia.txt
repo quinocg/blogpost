@@ -1,5 +1,3 @@
-﻿Esta es mi clas de Git & GitHub
+Esta es mi clas de Git & GitHub
 
-Tengo 30 años y son de Perú
-
-Hoy hablaremos de su vida
+ma�ana nos enforcaremos en su vida laboral
