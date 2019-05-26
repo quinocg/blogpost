@@ -25,3 +25,9 @@ body{
     margin: 0;
     padding: 0.5em;
 }
+
+#footer{
+    color: #fff;
+    padding: 5px 0;
+    background: #333;
+}
